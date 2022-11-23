@@ -1,8 +1,11 @@
 # personal_expense
 
-A new Flutter project.
+A Flutter project.
 
-## Getting Started
+A personal expense tracker app which tracks your daily expenses.
+
+Only frontend work for now. The data is not stored in the backend.
+
 
 This project is a starting point for a Flutter application.
 
